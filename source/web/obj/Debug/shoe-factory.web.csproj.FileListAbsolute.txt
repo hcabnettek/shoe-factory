@@ -1,0 +1,10 @@
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\shoe-factory.web\bin\shoe-factory.web.dll
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\shoe-factory.web\bin\shoe-factory.web.pdb
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\shoe-factory.web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\shoe-factory.web\obj\Debug\shoe-factory.web.dll
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\shoe-factory.web\obj\Debug\shoe-factory.web.pdb
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\bin\shoe-factory.web.dll
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\bin\shoe-factory.web.pdb
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\obj\Debug\shoe-factory.web.dll
+C:\Users\ckettenbach.BRIDGEPOINT\Desktop\GIT\shoe-factory\source\web\obj\Debug\shoe-factory.web.pdb
